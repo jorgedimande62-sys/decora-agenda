@@ -1,4 +1,3 @@
-pubspec.yaml
 name: decor_agenda_app
 description: App de agendamento para decoradores de eventos
 publish_to: 'none'
